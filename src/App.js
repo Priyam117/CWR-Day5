@@ -1,7 +1,16 @@
-export default function App() {
+import Header from './Component/Header';
+import Body from './Component/Body';
+import Footer from './Component/Footer';
+import './App.css';
+
+function App() {
   return (
-    <h1 className="text-3xl font-bold underline">
-      Hello world!
-    </h1>
-  )
+    <div className="App">
+      <Header />
+      <Body />
+      <Footer />
+    </div>
+  );
 }
+
+export default App;
