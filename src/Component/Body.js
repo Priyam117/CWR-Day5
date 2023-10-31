@@ -4,7 +4,7 @@ function Body() {
   return (
     <div className='body'>
       <img src="https://media.istockphoto.com/id/865314006/photo/three-people-exercising-outdoors.webp?b=1&s=170667a&w=0&k=20&c=o9_yiLRlkG__bXci1N-KKBcK4IDqzFHjJnfXCxTlwno=" alt="Wellness logo" className='w-full h-1/3 ' />
-      <div className='article1 text-center bg-rose-700 text-white p-8'>
+      <div className='article1 text-center bg-rose-900 text-white p-8'>
           <h1 className='text-4xl mb-4'>Think Health. Think Massage</h1>
           <p className='font-bold text-white mb-6'>We are open 9am to 6pm; Monday to Sunday. If you would like to schedule an appoinment with us, please call us at 458 456 4874 today!</p>
           <button className='text-center border p-3 px-16 mr-4'>Learn More about us </button>
